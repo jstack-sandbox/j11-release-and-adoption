@@ -1,4 +1,3 @@
 # jstack: machinery
 /.agents/settings.json @fund-flow-admin
 /.github/CODEOWNERS @fund-flow-admin
-/.github/workflows/jstack.yml @fund-flow-admin
