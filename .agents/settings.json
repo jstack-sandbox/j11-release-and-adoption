@@ -1,1 +1,1 @@
-{"jstack": {"version": "1.4.0", "checksum": "sha256:c8e26f411eaba616cfb09ebef0afc1d150d8d7cf4f124daff95b0298af5d87f6"}, "owners": {"owner": "fund-flow-admin"}, "profiles": {"lang-a": {}, "runner-a": {}, "mutate-a": {}}}
+{"jstack": {"version": "1.4.4", "checksum": "sha256:41d09177c43229841a182fcb1631cd8b424a3d3a885ad496244a1d9e239d96f6"}, "owners": {"owner": "fund-flow-admin"}, "profiles": {"lang-a": {}, "runner-a": {}, "mutate-a": {}}}
